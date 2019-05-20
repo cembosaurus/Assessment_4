@@ -1,0 +1,19 @@
+<div class="container">
+    <h1>Check</h1>
+    <form id="formCheck" class="col-sm-4 mt-3" #checkForm="ngForm" (ngSubmit)="submitCheck()">
+        <label for="payee">Payee</label>
+        <input id="payee" class="form-control" name="payee" rows="6" [(ngModel)]="check.payee" required minlength="3" maxlength="20" pattern="[a-zA-Z]*">
+        <label for="amount">Amount</label>
+          <input #amount="ngModel" id="amount" class="form-control" name="amount" rows="6" 
+          [(ngModel)]="check.amount" required minlength="1" maxlength="14" inputmode="numeric" pattern="^[0-9]+(.[0-9]{0,2})?$" digitOnly>
+
+        <button [disabled]="!checkForm.valid" class="btn btn-outline-success mt-3 mb-3" type="submit">Submit</button>
+
+        <div class="alert alert-danger" *ngIf="!amount.valid && amount.dirty">
+          Amount should be in numeric format max 14 numbers.
+        </div>
+        <div class="alert alert-danger" *ngIf="!checkForm.valid && checkForm.dirty">
+            Please enter data in valid format !
+          </div>
+      </form>
+</div>

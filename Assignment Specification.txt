@@ -1,0 +1,42 @@
+
+Cheque Application
+
+Have a look at the cheque shown at: https://en.wikipedia.org/wiki/Cheque#Parts_of_a_cheque
+You’ll see that it is a small rectangular area, with payee and amount in words to the left, and date and amount in numbers to the right.
+
+
+
+
+Your objective
+
+•	Write an ASP .NET MVC application, use any frontend framework you are comfortable with.
+
+•	Ask the user for payee, amount in dollars and a date.
+
+•	Validates the input. All 3 fields are required. Amount must be numeric, greater than 0, and smaller than 10000000000000. Date must be a valid date. 
+
+•	After the user has submitted the data, your program shows the cheque on the screen. It doesn’t have to look exactly like the cheque on the Wikipedia page, no need to reproduce the fonts, colours, etc. However, make sure your cheque has the same general layout, date format, etc., so it vaguely looks like a cheque.
+
+
+
+
+Amount in words
+
+Make sure that your application can write the amount in words correctly, for all possible valid inputs. For example:
+
+3005000150.65
+
+should appear on your cheque as
+
+Three Billion, Five Million, One Hundred Fifty Dollars and Sixty-Five Cents
+
+
+
+
+Additional requirements
+
+•	Write the application code as you would a production application.
+•	Provide good unit test coverage.
+•	Adhere to the SOLID and DRY principles.
+•	Be ready to discuss your solution at the interview.
+•	Provide the solution as a git repository link or a zip file.
