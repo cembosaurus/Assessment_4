@@ -25,9 +25,9 @@ namespace CheckApp.UnitTests
 
         [Test]
         [TestCase(3005000150.65, "Three Billion, Five Million, One Hundred Fifty Dollars and Sixty-Five Cents")]
+        [TestCase(0, "Zero Dollars and Zero Cents")]
         [TestCase(0.1, "Zero Dollars and Ten Cents")]
         [TestCase(123.45, "One Hundred Twenty Three Dollars and Fourty-Five Cents")]
-        [TestCase(0, "Zero Dollars and Zero Cents")]
         public void MoneyToWords_WhenDecimal_ReturnNumberInWords(decimal d, string expectedResult)
         {
             var service = new CheckService();
