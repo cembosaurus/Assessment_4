@@ -12,12 +12,18 @@ import { markParentViewsForCheckProjectedViews } from '@angular/core/src/view/ut
 })
 export class FormComponent implements OnInit {
 
+  now: Date = new Date();
+
   check: Check;
   date: Date;
   test: string;
 
 
   constructor(private apiService: ApiService, private router: Router) {
+
+    setInterval(() => {
+      this.now = new Date();
+    }, 1);
 
     this.check = new Check();
 

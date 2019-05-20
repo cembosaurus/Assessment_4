@@ -1,5 +1,5 @@
 <div class="container">
-    <h1>Check</h1>
+    <p class="bb">Date: {{now  | date:'dd/mm/yyy HH:mm:ss'}}</p>
     <form id="formCheck" class="col-sm-4 mt-3" #checkForm="ngForm" (ngSubmit)="submitCheck()">
         <label for="payee">Payee</label>
         <input #name="ngModel" id="payee" class="form-control" name="payee" rows="6" [(ngModel)]="check.payee" required minlength="3" maxlength="20" pattern="[a-zA-Z]*">
