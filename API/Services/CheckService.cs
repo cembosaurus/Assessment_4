@@ -15,13 +15,11 @@ namespace CheckApp.Services
         private decimal _d = 0;
         private string _result;
 
-        public CheckService()
-        {
+        public CheckService() { }
 
-        }
-        public CheckService(decimal n)
+        public CheckService(decimal d)
         {
-            _d = n;
+            _d = d;
 
             Initialize();
         }

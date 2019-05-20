@@ -13,7 +13,6 @@ namespace Check.Controllers
         private ICheckService _checkService;
 
 
-
         public CheckController(ICheckService checkService)
         {
             _checkService = checkService;
