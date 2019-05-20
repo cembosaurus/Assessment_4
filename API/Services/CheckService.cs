@@ -41,7 +41,7 @@ namespace CheckApp.Services
         private string CreateString(ulong number)
         {
             _result = "";
-            if (number == 0) return _result = _words[25] + " ";
+            if (number == 0) return _result = _words[25];
 
             var groups = new Dictionary<int, Stack<int>>();
             var result = new Stack<string>();
