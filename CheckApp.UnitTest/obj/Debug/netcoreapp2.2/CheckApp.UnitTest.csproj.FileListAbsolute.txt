@@ -1,0 +1,17 @@
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\obj\Debug\netcoreapp2.2\CheckApp.UnitTest.csproj.CoreCompileInputs.cache
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\obj\Debug\netcoreapp2.2\CheckApp.UnitTest.AssemblyInfoInputs.cache
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\obj\Debug\netcoreapp2.2\CheckApp.UnitTest.AssemblyInfo.cs
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\CheckApp.UnitTest.deps.json
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\CheckApp.UnitTest.runtimeconfig.json
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\CheckApp.UnitTest.runtimeconfig.dev.json
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\CheckApp.UnitTest.dll
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\obj\Debug\netcoreapp2.2\CheckApp.UnitTest.csprojAssemblyReference.cache
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\CheckApp.UnitTest.pdb
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\CheckApp.dll
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\bin\Debug\netcoreapp2.2\CheckApp.pdb
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\obj\Debug\netcoreapp2.2\CheckApp.UnitTest.csproj.CopyComplete
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\obj\Debug\netcoreapp2.2\CheckApp.UnitTest.dll
+G:\CV\Jessica - Smartcorp\application\CheckApp.UnitTest\obj\Debug\netcoreapp2.2\CheckApp.UnitTest.pdb
