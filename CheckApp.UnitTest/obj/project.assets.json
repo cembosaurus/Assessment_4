@@ -8599,11 +8599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\CV\\Jessica - Smartcorp\\application\\CheckApp.UnitTest\\CheckApp.UnitTest.csproj",
+      "projectUniqueName": "G:\\test\\GitHubClone\\Assessment_4\\CheckApp.UnitTest\\CheckApp.UnitTest.csproj",
       "projectName": "CheckApp.UnitTest",
-      "projectPath": "G:\\CV\\Jessica - Smartcorp\\application\\CheckApp.UnitTest\\CheckApp.UnitTest.csproj",
+      "projectPath": "G:\\test\\GitHubClone\\Assessment_4\\CheckApp.UnitTest\\CheckApp.UnitTest.csproj",
       "packagesPath": "C:\\Users\\cembo\\.nuget\\packages\\",
-      "outputPath": "G:\\CV\\Jessica - Smartcorp\\application\\CheckApp.UnitTest\\obj\\",
+      "outputPath": "G:\\test\\GitHubClone\\Assessment_4\\CheckApp.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8622,8 +8622,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "G:\\CV\\Jessica - Smartcorp\\application\\API\\CheckApp.csproj": {
-              "projectPath": "G:\\CV\\Jessica - Smartcorp\\application\\API\\CheckApp.csproj"
+            "G:\\test\\GitHubClone\\Assessment_4\\API\\CheckApp.csproj": {
+              "projectPath": "G:\\test\\GitHubClone\\Assessment_4\\API\\CheckApp.csproj"
             }
           }
         }
