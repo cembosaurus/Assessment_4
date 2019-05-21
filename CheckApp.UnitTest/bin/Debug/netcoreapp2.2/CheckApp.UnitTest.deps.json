@@ -1428,9 +1428,7 @@
       "CheckApp/1.0.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.3",
-          "Moq": "4.10.1",
-          "NUnit": "3.12.0",
-          "NUnit3TestAdapter": "3.12.0"
+          "Moq": "4.10.1"
         },
         "runtime": {
           "CheckApp.dll": {}

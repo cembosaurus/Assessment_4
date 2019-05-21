@@ -1,9 +1,6 @@
 ﻿using CheckApp.Services;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using NUnit.Framework;
 using Moq;
+using NUnit.Framework;
 
 namespace CheckApp.UnitTests
 {
